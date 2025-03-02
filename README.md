@@ -1,1 +1,1 @@
-# Food-Delivery-app-django-
+# Food-Delivery-app-django
